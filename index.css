@@ -1,50 +1,33 @@
-*{
-     font-family: "Avenir Next";
-     
-}
-
-header{
-    height: 120px;
+body{
     background-color:black;
+    color: white;
     
 }
 
-.header-logo{
-  color: rgba(142, 121, 2, 0.949);
-  float: left;
-  padding: 20px 40px;
-  font-size: 36px;
+
+
+
+
+.header-logo img{
+    width: 450px;
+    height: 500px;
 }
 
-.header-list li{
-    list-style: none;
-    float: left;
-    padding: 33px 20px;
-    color:aliceblue
+.header-sntense{
+    float: center;
 }
 
-.header-list{
-    float: right;
+
+
+.game img{
+    padding: 100px 30px;
+    float: center;
+    width: 500px;
+    height: 300px;
+
 }
 
-main{
-    
-    height:1000px;
-}
 
-main span{
-    color:goldenrod;
-    
-}
 
-.top-wrapper{
-    background-image: url(https://www.bing.com/images/search?view=detailV2&ccid=ypgJy%2bD2&id=9A098E6D7E9EDDC3DC2F34DBF32A2F5815D571F2&thid=OIP.ypgJy-D2MFqcZLIC6D0kzwHaFj&mediaurl=https%3a%2f%2fwww.crank-in.net%2fimg%2fdb%2f228118180208480_1200.jpg&exph=900&expw=1200&q=%e8%a5%bf%e5%b7%9d%e8%b2%b4%e6%95%99&FORM=IRPRST&ck=805FE90B10959F0CF0B50A4E9AD1104D&selectedIndex=4&itb=0);
-    background-size: cover;
-    padding: 180px 0 100px 0;
-}
-
-.container{
-    text-align:center;
-}
 
 
